@@ -1,0 +1,14 @@
+{
+    "name": "dadastudio/braintree",
+    "description": "A package for Braintree",
+    "authors": [
+        {
+            "name": "Michał Jarociński",
+            "email": "michal@dadastudio.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "braintree/braintree_php": "3.7.x"
+    }
+}
